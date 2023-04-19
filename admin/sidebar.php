@@ -93,6 +93,7 @@
     <!-- Nav Item - Tables -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <li class="nav-item">
+
       <a class="nav-link" href="logout.php" onclick="return confirm('yakin mau keluar?');">
         <i class="fas fa-arrow-right"></i>
         <span>Logout</span></a>
