@@ -58,7 +58,7 @@ if (isset($_GET["edit"])) {
     </head>
 
 <body id="page-top">
-
+    <!-- menambhakan notifikasi sweetalert  -->
     <?php if (isset($true)) : ?>
         <script>
             Swal.fire({
